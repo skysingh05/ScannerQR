@@ -1,0 +1,29 @@
+body{
+        background-color:hsl(212, 45%, 89%);
+      text-align: center;
+}
+.qr{
+        border-radius: 20px;
+        margin-top: 20px;
+        margin-left: 0px;
+        height: 400px;
+        width: 360px;
+    
+}
+.attribution{
+        width: 400px;
+        height: 600px;
+        background-color: white;
+        text-align: center;
+        display: inline-block;
+        border-radius: 20px;
+        margin: 200px;
+}
+p{
+        font-size: 15px;
+        font-family: outfit;
+}
+h1{
+        font-family: outfit;
+        font-weight: 400,700;
+}
